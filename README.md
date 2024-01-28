@@ -59,8 +59,3 @@ Testes Unitários
 
 ---
 
-## `Repositório da prô`
-
-- [link do projeto final no github](https://github.com/asilvaolabi/CFT1-ProjetoFinal-React)
-
----
