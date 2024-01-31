@@ -8,7 +8,7 @@ const Home = () => {
     <>
       <div className={styles.header}>
         <h1>
-            Projeto Final Pretalab
+            Projeto Final Pretalab 2024
         </h1>
         <img src={homeImg} />
       </div>
